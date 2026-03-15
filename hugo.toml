@@ -1,4 +1,4 @@
-baseURL = 'https://blog.drunkcat.ink/'
+baseURL = 'https://drunkcat.ink/'
 languageCode = 'en-us'
 title = 'tuxzx site'
 theme = 'paper'
