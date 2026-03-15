@@ -1,0 +1,8 @@
+baseURL = 'https://blog.drunkcat.ink/'
+languageCode = 'en-us'
+title = 'tuxzx site'
+theme = 'paper'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
